@@ -3,6 +3,7 @@ cnendict_internal = {
     "你":"you",
     "他":"he",
     "她":"she",
+    "它":"it",
     "我们":"we",
     "你们":"you",
     "他们":"they",
@@ -25,5 +26,6 @@ cnendict_internal = {
     "抚摸":"pet",
     "丢弃":"abandon",
     "寻找":"search",
-    "呼唤":"call out"
+    "呼唤":"call out",
+    "轻吻":"kiss gently"
 }
