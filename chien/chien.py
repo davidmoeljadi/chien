@@ -3,6 +3,9 @@ cnendict_internal = {
     "你":"you",
     "他":"he",
     "她":"she",
+    "我们":"we",
+    "你们":"you",
+    "他们":"they",
     "小":"small",
     "大":"big",
     "猫":"cat",
@@ -14,5 +17,13 @@ cnendict_internal = {
     "溜":"walk",
     "养":"raise",
     "爱":"love",
-    "吃":"eat"
+    "吃":"eat",
+    "喝":"drink",
+    "画":"draw",
+    "去":"go",
+    "饲养":"raise",
+    "抚摸":"pet",
+    "丢弃":"abandon",
+    "寻找":"search",
+    "呼唤":"call out"
 }
